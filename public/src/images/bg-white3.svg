@@ -1,0 +1,21 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3042 3042" width="3042" height="3042">
+	<title>bg-white (2)-svg</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M0 0L3042 0L3042 3042L0 3042L0 0Z" />
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: none } 
+		.shp1 { opacity: 0.6;fill: none;stroke: #ffffff;stroke-width: 600 } 
+	</style>
+	<g id="Clip-Path: bg-white-big" clip-path="url(#cp1)">
+		<g id="bg-white-big">
+			<g id="Ellipse_12">
+				<path id="Layer" class="shp0" d="M1577 2886C823.26 2886 214 2276.74 214 1523C214 769.26 823.26 160 1577 160C2330.74 160 2940 769.26 2940 1523C2940 2276.74 2330.74 2886 1577 2886Z" />
+				<path id="Layer" class="shp1" d="M1577 2586C989.16 2586 514 2110.84 514 1523C514 935.16 989.16 460 1577 460C2164.84 460 2640 935.16 2640 1523C2640 2110.84 2164.84 2586 1577 2586Z" />
+			</g>
+		</g>
+	</g>
+</svg>

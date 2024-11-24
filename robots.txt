@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap:https://aahf.sa/sitemap.xml
+Sitemap:https://aahf.sa/sitemap_1.xml

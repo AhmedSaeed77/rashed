@@ -1,0 +1,44 @@
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   viewBox="0 0 196 170"
+   height="170"
+   width="196">
+  <defs>
+    <filter
+       filterUnits="userSpaceOnUse"
+       height="151.908"
+       width="177.851"
+       y="0"
+       x="0"
+       id="Path_145">
+      <feOffset
+         id="feOffset2"
+         input="SourceAlpha"
+         dy="5" />
+      <feGaussianBlur
+         id="feGaussianBlur4"
+         result="blur"
+         stdDeviation="5" />
+      <feFlood
+         id="feFlood6"
+         flood-opacity="0.051" />
+      <feComposite
+         result="result1"
+         id="feComposite8"
+         in2="blur"
+         operator="in" />
+      <feComposite
+         id="feComposite10"
+         in2="result1"
+         in="SourceGraphic" />
+    </filter>
+  </defs>
+  <path
+     d="m 171.9255,58.187153 v 53.624997 c 0,22.224 -21.01,38.7 -42.494,33.008 a 239.125,239.125 0 0 1 -105.357,-59.819997 239.2,239.2 0 0 1 105.357,-59.82 c 21.483,-5.693 42.494,10.784 42.494,33.008"
+     style="fill:#ffffff;filter:url(#Path_145)" />
+</svg>

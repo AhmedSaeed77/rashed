@@ -1,0 +1,48 @@
+<svg
+  xmlns:svg="http://www.w3.org/2000/svg"
+  xmlns="http://www.w3.org/2000/svg"
+  width="420"
+  height="420"
+  viewBox="0 0 420 420"
+  version="1.1"
+>
+  <defs>
+    <filter
+      id="filter-drop-shadow"
+      x="0"
+      y="0"
+      width="420"
+      height="420"
+      filterUnits="userSpaceOnUse"
+    >
+      <feOffset
+        in="SourceAlpha"
+        dy="10"
+      />
+      <feGaussianBlur
+        stdDeviation="10"
+        result="blur"
+      />
+      <feColorMatrix
+        in="blur"
+        values="
+          1 0 0 0 -1
+          0 1 0 0 -1
+          0 0 1 0 -1
+          0 0 0 0.04 0
+        "
+        type="matrix"
+        result="matrix"
+      />
+      <feComposite
+        in="SourceGraphic"
+        in2="matrix"
+      />
+    </filter>
+  </defs>
+  <path
+    transform="matrix(-1,0,0,1,420,0)"
+    style="fill:#ffffff;filter:url(#filter-drop-shadow)"
+    d="M 67.55655,71.103196 C 9.0657,127.3656 64.53494,351.87293 141.51501,370.44672 218.49508,389.02051 393.96447,220.23579 375.47841,145.39712 356.99235,70.558446 126.0474,14.840796 67.55655,71.103196 Z"
+  />
+</svg>

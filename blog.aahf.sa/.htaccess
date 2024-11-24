@@ -1,0 +1,6 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^blog\.aahf\.sa$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.blog\.aahf\.sa$
+RewriteRule ^/?$ "https\:\/\/hamzat\-wasel\.blogspot\.com\/" [R=301,L]
+

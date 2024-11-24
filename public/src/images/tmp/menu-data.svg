@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="342" height="138" viewBox="0 0 342 138">
+  <g id="Group_513" data-name="Group 513" transform="translate(3403 -18650)">
+    <rect id="Rectangle_195" data-name="Rectangle 195" width="342" height="138" transform="translate(-3403 18650)" fill="#48acd1"/>
+    <g id="Group_512" data-name="Group 512" transform="translate(-3403 18650)" style="mix-blend-mode: multiply;isolation: isolate">
+      <path id="Subtraction_5" data-name="Subtraction 5" d="M273.236,138h-54.8a165.324,165.324,0,0,0-.05-82.823c19.953,18.334,35.529,39.032,46.3,61.517A176.228,176.228,0,0,1,273.236,138ZM342,97.623h0v0a253.562,253.562,0,0,0-54.129-38.063,298.634,298.634,0,0,0-77.4-27.783,172.326,172.326,0,0,1,7.911,23.4A248.7,248.7,0,0,0,180.9,26.907c9.945,1.169,19.895,2.807,29.574,4.867A185.862,185.862,0,0,0,193.249,0H342ZM0,57.351V0H123.669A284.057,284.057,0,0,1,180.9,26.907a336,336,0,0,0-92,1.922A315.148,315.148,0,0,0,39.623,40.872,293,293,0,0,0,0,57.35Z" transform="translate(0 0)" fill="#2394c6"/>
+      <path id="Intersection_1" data-name="Intersection 1" d="M0,0Q15.093,1.774,29.591,4.866A171.677,171.677,0,0,1,37.5,28.253,248.633,248.633,0,0,0,0,0Z" transform="translate(180.847 26.949)" fill="#2490ad" style="mix-blend-mode: multiply;isolation: isolate"/>
+    </g>
+  </g>
+</svg>
